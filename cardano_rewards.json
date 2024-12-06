@@ -1,0 +1,376 @@
+{
+  "stake1u8j53lkzw5tv4p08am6uunwrjzrvpzfas8xzxcepf3hvrfsr7u3yu": {
+    "data": [
+      {
+        "date": "2024-09-01",
+        "rewards": "25976047299",
+        "active_balance": "75477265938316",
+        "net_apy": 2.512348
+      },
+      {
+        "date": "2024-09-02",
+        "rewards": "0",
+        "active_balance": "75510601252113",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-03",
+        "rewards": "0",
+        "active_balance": "75510601252113",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-04",
+        "rewards": "0",
+        "active_balance": "75510601252113",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-05",
+        "rewards": "0",
+        "active_balance": "75510601252113",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-06",
+        "rewards": "29039830119",
+        "active_balance": "75510601252113",
+        "net_apy": 2.8074305
+      },
+      {
+        "date": "2024-09-07",
+        "rewards": "0",
+        "active_balance": "75539344931919",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-08",
+        "rewards": "0",
+        "active_balance": "75539344931919",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-09",
+        "rewards": "0",
+        "active_balance": "75539344931919",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-10",
+        "rewards": "0",
+        "active_balance": "75539344931919",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-11",
+        "rewards": "27435653280",
+        "active_balance": "75539344931919",
+        "net_apy": 2.6513371
+      },
+      {
+        "date": "2024-09-12",
+        "rewards": "0",
+        "active_balance": "75565320979218",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-13",
+        "rewards": "0",
+        "active_balance": "75565320979218",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-14",
+        "rewards": "0",
+        "active_balance": "75565320979218",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-15",
+        "rewards": "0",
+        "active_balance": "75565320979218",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-16",
+        "rewards": "30456705747",
+        "active_balance": "75565320979218",
+        "net_apy": 2.942275
+      },
+      {
+        "date": "2024-09-17",
+        "rewards": "0",
+        "active_balance": "29041998049",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-18",
+        "rewards": "0",
+        "active_balance": "29041998049",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-19",
+        "rewards": "0",
+        "active_balance": "29041998049",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-20",
+        "rewards": "0",
+        "active_balance": "29041998049",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-21",
+        "rewards": "12528379",
+        "active_balance": "29041998049",
+        "net_apy": 3.1491349
+      },
+      {
+        "date": "2024-09-22",
+        "rewards": "0",
+        "active_balance": "56477651329",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-23",
+        "rewards": "0",
+        "active_balance": "56477651329",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-24",
+        "rewards": "0",
+        "active_balance": "56477651329",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-25",
+        "rewards": "0",
+        "active_balance": "56477651329",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-26",
+        "rewards": "21452927",
+        "active_balance": "56477651329",
+        "net_apy": 2.772891
+      },
+      {
+        "date": "2024-09-27",
+        "rewards": "0",
+        "active_balance": "86934357076",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-28",
+        "rewards": "0",
+        "active_balance": "86934357076",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-29",
+        "rewards": "0",
+        "active_balance": "86934357076",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-30",
+        "rewards": "0",
+        "active_balance": "86934357076",
+        "net_apy": 0
+      }
+    ],
+    "public_commission": 0.03,
+    "kiln_commission": 0.03,
+    "pool_id": 1
+  },
+  "stake1uxshuuepjhaewd7ch8th96za0fj06t9plzjymjnr3h3k07cfyd2e6": {
+    "data": [
+      {
+        "date": "2024-09-01",
+        "rewards": "6315043",
+        "active_balance": "18533781492",
+        "net_apy": 2.48734
+      },
+      {
+        "date": "2024-09-02",
+        "rewards": "0",
+        "active_balance": "18541899010",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-03",
+        "rewards": "0",
+        "active_balance": "18541899010",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-04",
+        "rewards": "0",
+        "active_balance": "18541899010",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-05",
+        "rewards": "0",
+        "active_balance": "18541899010",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-06",
+        "rewards": "7677847",
+        "active_balance": "18541899010",
+        "net_apy": 3.022791
+      },
+      {
+        "date": "2024-09-07",
+        "rewards": "0",
+        "active_balance": "18547915004",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-08",
+        "rewards": "0",
+        "active_balance": "18547915004",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-09",
+        "rewards": "0",
+        "active_balance": "18547915004",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-10",
+        "rewards": "0",
+        "active_balance": "18547915004",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-11",
+        "rewards": "6262887",
+        "active_balance": "18547915004",
+        "net_apy": 2.4649172
+      },
+      {
+        "date": "2024-09-12",
+        "rewards": "0",
+        "active_balance": "18798561547",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-13",
+        "rewards": "0",
+        "active_balance": "18798561547",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-14",
+        "rewards": "0",
+        "active_balance": "18798561547",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-15",
+        "rewards": "0",
+        "active_balance": "18798561547",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-16",
+        "rewards": "5128012",
+        "active_balance": "18798561547",
+        "net_apy": 1.9913485
+      },
+      {
+        "date": "2024-09-17",
+        "rewards": "0",
+        "active_balance": "17425915144",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-18",
+        "rewards": "0",
+        "active_balance": "17425915144",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-19",
+        "rewards": "0",
+        "active_balance": "17425915144",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-20",
+        "rewards": "0",
+        "active_balance": "17425915144",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-21",
+        "rewards": "6856735",
+        "active_balance": "17425915144",
+        "net_apy": 2.8723981
+      },
+      {
+        "date": "2024-09-22",
+        "rewards": "0",
+        "active_balance": "17432178031",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-23",
+        "rewards": "0",
+        "active_balance": "17432178031",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-24",
+        "rewards": "0",
+        "active_balance": "17432178031",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-25",
+        "rewards": "0",
+        "active_balance": "17432178031",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-26",
+        "rewards": "5271097",
+        "active_balance": "17432178031",
+        "net_apy": 2.2073553
+      },
+      {
+        "date": "2024-09-27",
+        "rewards": "0",
+        "active_balance": "17437306043",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-28",
+        "rewards": "0",
+        "active_balance": "17437306043",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-29",
+        "rewards": "0",
+        "active_balance": "17437306043",
+        "net_apy": 0
+      },
+      {
+        "date": "2024-09-30",
+        "rewards": "0",
+        "active_balance": "17437306043",
+        "net_apy": 0
+      }
+    ],
+    "public_commission": 0.05,
+    "kiln_commission": 0.03,
+    "pool_id": 0
+  }
+}
